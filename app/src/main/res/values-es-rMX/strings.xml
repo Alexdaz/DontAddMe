@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DontAddMe</string>
+    <string name="toastMSG">Ingrese el número que desea contactar.</string>
+    <string name="numCuenta">Número de la cuenta</string>
+    <string name="msg">Mensaje</string>
+    <string name="sendMSG">Enviar Mensaje</string>
+</resources>

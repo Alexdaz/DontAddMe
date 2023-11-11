@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DontAddMe</string>
+    <string name="toastMSG">Type the phone number you wish to contact.</string>
+    <string name="numCuenta">Phone Number</string>
+    <string name="msg">Message</string>
+    <string name="sendMSG">Send Message</string>
+</resources>
